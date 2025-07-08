@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm Piyush Bharambe</h1>
-<h3 align="center">AI/ML Enthusiast | Final Year Engineering Student | Project Builder</h3>
-
-- 🔭 I’m currently working on **AI-powered Fashion Recommendation System**
-- 🌱 I’m learning **GANs, Flask APIs, and Cloud Deployment**
-- 💬 Ask me about **Python, ML, Deep Learning, Flask**
-- 📫 Reach me at **piyushbharambe2002@gmail.com**
+<h3 align="center">🚀 AI/ML Engineer | B.E. in Artificial Intelligence and Data Science | Passionate Problem Solver | Always Excited to Learn and Grow</h3>
 
 ---
 
@@ -49,7 +44,9 @@
 ---
 
 ### 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyush-bharambe/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyush-bharambe-208895287)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/piyush.__.bharambe__)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:piyushrb202@gmail.com)
+
 
 
