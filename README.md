@@ -47,9 +47,9 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyush-bharambe-208895287)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/piyush.__.bharambe__)
 
-<a href="mailto:piyushrb202@gmail.com">
-  <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
-</a>
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:piyushrb202@gmail.com)  
+📫 **Email**: [piyushrb202@gmail.com](mailto:piyushrb202@gmail.com)
+
 
 
 
