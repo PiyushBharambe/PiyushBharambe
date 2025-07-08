@@ -51,10 +51,12 @@
 
 ---
 
-## ✍️ Random Dev Quote
+<h3 align="center">✍️ Random Dev Quote</h3>
 
-"You don’t have to be great to start, but you have to start to be great."  
-                                                                           — *Zig Ziglar*
+<p align="center">
+  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote="You%20don’t%20have%20to%20be%20great%20to%20start,%20but%20you%20have%20to%20start%20to%20be%20great."&author=Zig%20Ziglar)](https://github.com/PiyushSuthar/github-readme-quotes)
+</p>
+
 
 
 
