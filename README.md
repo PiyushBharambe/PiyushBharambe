@@ -51,7 +51,7 @@
 
 ---
 
-<h3 ✍️ Random Dev Quote</h3>
+<h3>✍️ Random Dev Quote</h3>
 
 <p 
   <a href="https://github.com/PiyushSuthar/github-readme-quotes">
