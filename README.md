@@ -51,9 +51,9 @@
 
 ---
 
-<h3 align="center">✍️ Random Dev Quote</h3>
+<h3 ✍️ Random Dev Quote</h3>
 
-<p align="center">
+<p 
   <a href="https://github.com/PiyushSuthar/github-readme-quotes">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=You%20don’t%20have%20to%20be%20great%20to%20start,%20but%20you%20have%20to%20start%20to%20be%20great.&author=Zig%20Ziglar" />
   </a>
